@@ -1,0 +1,22 @@
+{
+    "name": "mobile-layout-2",
+    "version": "0.0.1",
+    "title": "Mobile Layout 2",
+    "description": "Practice your git skills while developing a mobile layout for the wordpress.com home page in stages.",
+    "difficultyModes": [
+        "Normal"
+    ],
+    "keywords": [
+        "JavaScript",
+        "css",
+        "git",
+        "html",
+        "mobile"
+    ],
+    "supplementalFiles": [
+        "stage1.png",
+        "stage2.png",
+        "stage3.png",
+        "stage4.png"
+    ]
+}
