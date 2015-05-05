@@ -88,10 +88,10 @@ Over the course of this assignment you will develop the mobile version of the [w
 4. [Images / Styling](stage4.png) - *after completing this stage commit and push your changes*
 
 
-## Notes
-
-Notes go here...
-
 ## Additional Resources
 
-* Read []()
+* [Normalize.css](http://necolas.github.io/normalize.css/)
+* [CSS Introduction](https://github.com/TIY-Austin-Front-End-Engineering/Curriculum/tree/master/css-introduction)
+* [CSS Box Model](https://github.com/TIY-Austin-Front-End-Engineering/Curriculum/tree/master/css-box-model)
+* [CSS Layout](https://github.com/TIY-Austin-Front-End-Engineering/Curriculum/tree/master/css-layout)
+* [CSS Centering](https://github.com/TIY-Austin-Front-End-Engineering/Curriculum/tree/master/css-centering)
