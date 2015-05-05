@@ -69,9 +69,10 @@ After completing this assignment, you be able to effectively use
 ### Deliverables
 
 * A repo containing at least:
-  * `main.js`
-  * `index.html`
+  * `dist/main.js`
+  * `dist/index.html`
 * There must be at least one commit for each stage (see below) of the webpage.
+* All of your files should be inside a `dist` directory. When you look at your repo on github, all of the necessary files should be in a directory called `dist`.
 
 ### Requirements
 
@@ -81,6 +82,9 @@ After completing this assignment, you be able to effectively use
 
 ## Normal Mode
 Over the course of this assignment you will develop the mobile version of the [wordpress.com](http://wordpress.com) website. The project is broken into four stages. The stages will take you through laying out the scaffolding for the page, filling in styles, text and finally images. You must follow each stage, don't skip!
+
+## Notes
+Images for the design [can be found here](/images).
 
 1. [Outer Layout](stage1.png) - *after completing this stage commit and push your changes*
 2. [Inner Layout](stage2.png) - *after completing this stage commit and push your changes*
