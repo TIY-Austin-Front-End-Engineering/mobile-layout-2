@@ -1,3 +1,4 @@
+
 # Mobile Layout 2
 
 ## Description
@@ -77,7 +78,8 @@ After completing this assignment, you be able to effectively use
 ### Requirements
 
 * No W3C Validation Warnings
-* The page should not be a fixed width, but instead scale as the browser window expands or shrinks. Margins and spacing should not be effected byt resizing the window.
+* The page should not be a fixed width, but instead scale as the browser window expands or shrinks. Margins and spacing should not be effected by resizing the window.
+* You must use [Normalize.css](http://necolas.github.io/normalize.css/) for cross browser consistency.
 
 
 ## Normal Mode
