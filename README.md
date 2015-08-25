@@ -70,10 +70,9 @@ After completing this assignment, you be able to effectively use
 ### Deliverables
 
 * A repo containing at least:
-  * `dist/main.js`
-  * `dist/index.html`
+  * `styles/main.css`
+  * `index.html`
 * There must be at least one commit for each stage (see below) of the webpage.
-* All of your files should be inside a `dist` directory. When you look at your repo on github, all of the necessary files should be in a directory called `dist`.
 
 ### Requirements
 
